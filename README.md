@@ -118,3 +118,10 @@ Caso o carrinho esteja muito rápido, é necessário ajustar a velocidade para q
 
 A construção do carrinho seguidor de linha é uma boa introdução à engenharia e automação. Com esse projeto é possível aprender conceitos fundamentais como sensores, transistores, controle de motores e montagem de circuitos. Além disso, estimula habilidades manuais e de resolução de problemas. Esse artigo mostra que, com dedicação, mesmo utilizando materiais simples e de baixo custo, é possível desenvolver um robô funcional, que exemplifica de forma clara o funcionamento de sistemas autônomos no mundo real.
 
+## LinkedIn
+
+Você pode acessar informações sobre esse projeto no meu linkedin clicando nesse link 
+
+- [Como Construir um Carrinho Seguidor de Linha – Guia Passo a Passo (LinkedIn)](https://www.linkedin.com/pulse/como-construir-um-carrinho-seguidor-de-linha-guia-passo-teruel-rvckc)
+
+
