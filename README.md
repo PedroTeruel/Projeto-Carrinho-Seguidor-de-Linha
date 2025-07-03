@@ -9,6 +9,9 @@ Este artigo apresenta um passo a passo completo para criar um projeto funcional 
 O principal objetivo foi a construção de um carrinho seguidor de linha que funciona como um robô autônomo capaz de identificar e seguir uma trilha contínua através de sensores infravermelhos, interpretando os dados em tempo real para corrigir sua trajetória e manter o movimento sobre a trilha.
 
 Veja nos vídeos dos links abaixo o funcionamento do carrinho que você irá aprender a construir nesse artigo:
-- 🔗 [Vídeo 1 – Funcionamento do Carrinho](https://github.com/PedroTeruel/Projeto-Carrinho-Seguidor-de-Linha/blob/main/Videos/video1.mp4)
-- 🔗 [Vídeo 2 – Detalhes do Circuito](https://github.com/PedroTeruel/Projeto-Carrinho-Seguidor-de-Linha/blob/main/Videos/video2.mp4)
+- 🔗 [Vídeo 1 – Funcionamento do Carrinho](https://www.youtube.com/watch?v=o5KDZBv2Lis)
+- 🔗 [Vídeo 2 – Detalhes do Circuito](https://www.youtube.com/shorts/yLg4nNAEKBg)
+
+## Materiais Necessários
+![](https://github.com/SeuUsuario/SeuRepositorio/blob/main/Imagens/carrinho.jpg?raw=true)
 
